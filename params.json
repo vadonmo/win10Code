@@ -1,0 +1,6 @@
+{
+  "name": "Win10code",
+  "tagline": "",
+  "body": "众所周知，微软已经关闭了win7 win8的免费自动升级，所以win7 win8的key现在已经无法激活win10，与此同时，许多升级神key也已经失效\r\n之前有个帖子里面写的3V66T秘钥直接激活实测1607版本无效，所以发一个新的解决方法\r\nPS：我会说我就是用之前那个LZ的方法失败提示没有数字权利才找到的这个方法吗。。。\r\n这个方法看起来可能比较玄学，但是确实有效，大家请一定要淡定\r\n\r\n\r\n步骤一：卸载当前秘钥\r\n右键左下角windows徽标，选择命令提示符（管理员）输入：slmgr /upk\r\n步骤二：激活系统（该步骤无数字权利，数字权利步骤三获得）\r\n进入设置-更新和安全-激活-更改产品秘钥，依次输入以下激活码\r\n（提醒，注意顺序，这就是玄学的地方了，我也不知道具体原理）\r\n（前几个激活码必定报错显示无法激活，但是一定要输，识别秘钥有时候比较慢请稍微耐心，秘钥肯定有效可以点下一步，然后会报错无法激活，无视它关掉继续输下一组，玄学的地方在于你安装秘钥之后报错无法激活，然后你看到的部分秘钥与你输入的完全不同，完成后应该是没有数字权利的已激活了）\r\nKNXB4-F82M9-TB3X9-P9PQ6-RRG6Y\r\nH4P26-TH7MK-493PP-8HHGH-Q98QT\r\n4G8GX-F3J3P-3KVMG-BG6RB-WCDGR\r\nTPJ6C-YY8KK-Y7XHQ-GDW7H-DFQJV\r\nCKQMQ-DNPGJ-2FQGT-M3Q2W-Q68K3\r\n步骤三：获取数字权利\r\n步骤二已经激活后更改秘钥为VK7JG-NPHTM-C97JM-9MPGT-3V66T，此时可成功获取数字权利",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
